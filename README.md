@@ -2,4 +2,4 @@
 - 👀 I’m interested in Software Development & Dev Ops
 - 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on Software Development
-- 📫 pratamahari89@gmail.com
+- 📫 schutzstaffell@gmail.com
