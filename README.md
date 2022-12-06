@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hari-Kiri
-- 🏢 I'm IT Engineer Team Leader @[Trinusa Network](https://www.trinusanetwork.com/ "Trading and Mining Company - Ship various Indonesian raw material non-mineral through nation")
+- 🏢 I'm Team Leader Backend Engineer @[Trinusa Network](https://www.trinusanetwork.com/ "Trading and Mining Company - Ship various Indonesian raw material non-mineral through nation")
 - 👀 I’m interested in Software Development & Dev Ops
 - 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on Software Development
