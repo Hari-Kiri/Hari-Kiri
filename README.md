@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hari-Kiri
-- 🏢 I'm Team Leader Backend Engineer @[Trinusa Network](https://www.trinusanetwork.com/ "Trading and Mining Company - Ship various Indonesian raw material non-mineral through nation")
+- 🏢 I'm Cloud Service Backend Developer @[ifvirty.com](https://ifvirty.com/)
 - 👀 I’m interested in Software Development & Dev Ops
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning Virtualization
 - 💞️ I’m looking to collaborate on Software Development
 - 📫 games.bakeno@gmail.com
